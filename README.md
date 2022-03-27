@@ -2,4 +2,5 @@
 Proyecto basico de practica de NodeJS.
 Mensajeria de chat basica con sockets
 
-Autor original y tutorial de 4tomik: https://youtu.be/ln9qz-_bT2U
+Autor del proyecto: 4tomik
+Tutorial de Youtube: https://youtu.be/ln9qz-_bT2U
